@@ -1,4 +1,10 @@
 # python-randon-projects
-Random Projects
+These are random projects i come up with probaly because i got bored or tired of doing something.
 
-HexConvert
+# Random Projects List
+
+HexConvert.py {
+
+I made this because i got bored and tired of manually converting anime titles from ASCII to Hex letter by letter and triple checking if i made any mistakes.
+
+}
