@@ -1,4 +1,4 @@
-# python-randon-projects
+# python-random-projects
 These are random projects i come up with probaly because i got bored or tired of doing something.
 
 # Random Projects List
