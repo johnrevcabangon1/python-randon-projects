@@ -1,4 +1,5 @@
 from HexConvert import encode, decode
+# To import HexConvert, the file and HexConvert.py must be in the same directory or folder
 
 # encode()
 print(encode('T'))
@@ -23,7 +24,7 @@ decode('54')
 # Sentence Usage - You may change however You want.
 import textwrap
 text = '546F20457665727920596F752049277665204C6F766564204265666F7265'
-lst = textwrap.wrap(text, width=2) # If the Hex starts with 0x... You can offset by chnaging text to text[2:]
+lst = textwrap.wrap(text, width=2) # If the Hex starts with 0x... You can offset by changing text to text[2:]
 result = ''
 for i in lst:
 	result = result + decode(i)
